@@ -1,4 +1,4 @@
-# apple-music-token-generator-nodejs
+# Apple-music-token-generator-nodejs
 
 
 ## Getting Started
